@@ -61,7 +61,7 @@ CREATE DATABASE ecommerce_api;
 ### 7. Start the Flask app
 Make sure your virtual environment is activated:
 ```
-python main.py
+flask run
 ```
 You should see the message:
 ```
